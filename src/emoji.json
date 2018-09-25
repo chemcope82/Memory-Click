@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "crazy-face",
+        "image": "http://i65.tinypic.com/2rq0mmr.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "exploding-head",
+        "image": "http://i66.tinypic.com/nzziv.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "grin",
+        "image": "http://i66.tinypic.com/12373ip.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "heart-eyes",
+        "image": "http://i66.tinypic.com/vza4yc.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "omg",
+        "image": "http://i67.tinypic.com/wsmjps.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "sad",
+        "image": "http://i65.tinypic.com/15nvqrp.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "say-what",
+        "image": "http://i66.tinypic.com/280scw2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "squinty-tongue",
+        "image": "http://i66.tinypic.com/2wrdhe1.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "sunglasses",
+        "image": "http://i65.tinypic.com/1phxyp.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "tears-joy",
+        "image": "http://i63.tinypic.com/bfgjk4.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "vomit",
+        "image": "http://i67.tinypic.com/28uk8k8.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "winky-tongue",
+        "image": "http://i63.tinypic.com/a1sldf.jpg",
+        "clicked": false
+    }
+]

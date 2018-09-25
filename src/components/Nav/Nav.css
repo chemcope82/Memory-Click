@@ -1,0 +1,18 @@
+section {
+    background: #3a3838;
+    font-size: 25px;
+    color: #ee155d;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+#title {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#end {
+    font-size: 40px;
+    font-weight: bold;
+    color: yellow;
+}
